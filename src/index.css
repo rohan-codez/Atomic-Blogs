@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @font-face {
+    font-family: ABeeZee;
+    src: url(fonts/ABeeZee-Regular.ttf);
+}
+
+* {
+    font-family: ABeeZee; 
+} */
+
+::-webkit-scrollbar {
+    width: 12px;
+    border: 1px solid #dddddd;
+}
+
+::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #dddddd;
+
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #dddddd;
+}
