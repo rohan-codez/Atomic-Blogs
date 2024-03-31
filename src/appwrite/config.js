@@ -132,7 +132,7 @@ export class Service {
             undefined,
             undefined,
             undefined,
-            85, // means the quality is reduced to 85% when previewing the file in postcard
+            80, // means the quality is reduced to 85% when previewing the file in postcard
 
         )
     }
